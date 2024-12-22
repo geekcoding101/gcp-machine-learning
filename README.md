@@ -1,4 +1,4 @@
-# Modern Machine Learning Engineering Course
+# GCP Machine Learning Engineering Course
 
 A comprehensive, up-to-date machine learning engineering curriculum with practical implementations, designed for cloud practitioners transitioning into ML engineering.
 
