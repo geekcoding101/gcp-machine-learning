@@ -1,4 +1,4 @@
-# Modern Machine Learning Engineering Course
+# GCP Machine Learning Engineering Course
 
 A comprehensive, up-to-date machine learning engineering curriculum with practical implementations, designed for cloud practitioners transitioning into ML engineering.
 
@@ -11,6 +11,10 @@ This repository contains hands-on machine learning tutorials, Jupyter notebooks,
 As a certified Azure AI Engineer Associate, I found that while cloud certifications provide excellent coverage of cloud-specific AI services, they often don't delve deep enough into core machine learning concepts and implementation details. While exploring advanced learning paths, I discovered the "Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate" on Coursera. However, many learners noted that the content was outdated.
 
 This led me to create this project: following the well-structured curriculum of the Google Cloud ML certification path, but with completely updated content, modern tools, and platform-agnostic approaches. My goal is to help other cloud practitioners bridge the gap between cloud-specific AI services and fundamental machine learning engineering.
+
+## 🔄 Platform Adaptability
+
+While the examples in this course use GCP services, but core concepts should apply to any ML implementation.
 
 ## 📚 Course Structure
 
